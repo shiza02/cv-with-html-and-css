@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(75, 69, 69);
+}
+h1,h2,h3,h4,h5{
+    background-color: rgb(136, 150, 150);
+}
+td,th{
+    background-color: rgb(92, 92, 84);
+    text-decoration-color: rgb(185, 133, 65);
+}
+label{
+    background-color: rgb(121, 121, 51);
+}
